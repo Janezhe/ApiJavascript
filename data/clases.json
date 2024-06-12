@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Xiaoli",
+        "level": 79,
+        "clase": "clerigo",
+        "costo": "30k"
+    },
+    {
+        "nombre": "lixue",
+        "level": 30,
+        "clase": "maga",
+        "costo": "5k"
+    },
+    {
+        "nombre": "luis",
+        "level": 100,
+        "clase": "Destructor",
+        "costo": "150k"
+    }
+]
